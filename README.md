@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ArikSquad
+- 👀 I like coding!
+- 🌱 Coding bots rn!
+- 📫 Discord: ArikSquad#5354
