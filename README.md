@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ArikSquad
 - 👀 I like coding on Java!
-- 🌱 Coding AriCC //My own Minecraft Client!
+- 🌱 Coding AriCC
 - 📫 Discord: ArikSquad#5354
+- 🤩 Youtube: youtube.com/arikchannel
