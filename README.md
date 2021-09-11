@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariksquad&label=Profile%20views&color=0e75b6&style=flat" alt="ariksquad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariksquad" alt="ariksquad" /></a> </p>
-
 - 🔭 I’m currently working on [AriCC](https://github.com/ArikSquad/AriCC)
 
 - 🌱 I’m currently learning **Java and Python**
