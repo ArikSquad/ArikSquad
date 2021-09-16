@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Java and Python**
 
+- 😎 Support me on Patreon: [HERE](https://patreon.com/ariksquad)
+
 - 📫 How to reach me **aridevcodes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
