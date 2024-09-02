@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm ArikSquad</h1>
-<h3 align="center">I am a developer who likes to make cool stuff.</h3>
+# Hi 👋, I'm ArikSquad
+> I am a developer who likes to design fun stuff on software for people to enjoy
 
-- 🤝 Support me on kofi [here](https://www.ko-fi.com/ariksquad)
+- 🤝 Support me on ko-fi [here](https://www.ko-fi.com/ariksquad)
 
 - 📫 Talk to me with **[discord](https://discord.gg/WKTcnb86b7)**
 
@@ -19,9 +19,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariksquad&show_icons=true&theme=dracula&locale=en" alt="ariksquad" /></p>
 
-## What happened in 2023?
-*Answers why there's no commits in 2023 and why I lost motivation on EnSave*
-
-In early 2023 started I started to make commits that have tons of features in one commit. That was bad. I am not sure why I did that. At a point I started to have a lot of commits in my local development environment and they began to stack up. I didn't think that I should push them before it was too late. July 23, 2023 was a day that was horrifying at the moment. Me, still new to git at the time didn't know at all what to do. My friend committed to the Ensave repository removing himself from the developers list as he never developed anything to it. This made my local developer environment break. As I said, I was really new and somehow I didn't know about `git push --force` or any other methods at the time. I ended up having all the commits removed. I was successfull at getting the code back. I had changed every file and TONS of changes. I kind of lost motivation since all the progress showing how the code had evolved in 6 months were gone. To this day I still haven't pushed the "Overhaul commit". But I have kept Official EnSave Discord bot that's hosted online on the latest version. 
-
-I have since learned how to use git. I have worked on private projects that are not open sourced at the moment from the very end of 2024 to this day. I also have worked on my website, my Minecraft plugins. My private projects are only private temporarily, the goal I have is to publish and open-source as much as I can. Cool stuff coming soon.
+## Mentioning some cool projects
+Here are some projects of mine: *(hover over the \* to see more information)*
+- EnSave [(*)](## "At the time of writing this, the EnSave repo hasn't been commited to reflect actual bot code as I don't feel it's finished yet.")
+- MikArt Europe Website [(*)](## "NextJS, TS, TailwindCSS project. Closed source atm.")
+- MikArt Europe Earth SMP [(*)](## "A minecraft server.")
+- GroupSecurity [(*)](## "An upcoming Velocity, Bungeecord & Spigot plugin. Closed source.")
+- AnimVanish, BungeeMT & MiniVital [(*)](## "Quick, one feature Minecraft projects to improve on coding skills.")
