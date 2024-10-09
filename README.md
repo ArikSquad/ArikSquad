@@ -34,7 +34,6 @@ A full-stack developer
 
 
 ## My personal favourite projects
-*(hover over the \* to see more information)*
 - GroupSecurity 
   - *An upcoming closed source Velocity, Bungeecord & Spigot plugin*
 - MikArt Europe Website 
