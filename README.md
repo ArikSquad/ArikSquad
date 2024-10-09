@@ -1,28 +1,45 @@
 # Hi 👋, I'm ArikSquad
-> I am a developer who likes to design fun stuff on software for people to enjoy
+A full-stack developer
 
-- 🤝 Support me on ko-fi [here](https://www.ko-fi.com/ariksquad)
+<a href="https://www.ko-fi.com/ariksquad">![kofi](https://img.shields.io/badge/Ko--Fi-%23ff5f5f?style=for-the-badge&logo=kofi&logoColor=black)</a>
 
-- 📫 Talk to me with **[discord](https://discord.gg/WKTcnb86b7)**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![Typescript](https://img.shields.io/badge/Typescript-brightgreen?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+</p>
+<p align="left">
+
+![React](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=react)
+![Tailwindcss](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=black)
+![Jenkins](https://img.shields.io/badge/Jenkins-yellow?style=for-the-badge&logo=jenkins&logoColor=black)
+
+</p>
+
+> [!NOTE]\
+> Every single of my Typescript, Javascript, Flutter and most of my Java projects are not published on GitHub.
+> This is because I haven't thought of it before. 
+
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ariksquad&show_icons=true&theme=dracula&locale=en" alt="ariksquad" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://discord.com/users/549152470194978817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WKTcnb86b7" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22448548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24610319" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ariksquad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ariksquad" height="30" width="40" /></a>
-<a href="https://discord.gg/WKTcnb86b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WKTcnb86b7" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariksquad&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ariksquad" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariksquad&show_icons=true&theme=dracula&locale=en" alt="ariksquad" /></p>
-
-## Mentioning some cool projects
-Here are some projects of mine: *(hover over the \* to see more information)*
-- EnSave [(*)](## "At the time of writing this, the EnSave repo hasn't been commited to reflect actual bot code as I don't feel it's finished yet.")
-- MikArt Europe Website [(*)](## "NextJS, TS, TailwindCSS project. Closed source atm.")
-- MikArt Europe Earth SMP [(*)](## "A minecraft server.")
-- GroupSecurity [(*)](## "An upcoming Velocity, Bungeecord & Spigot plugin. Closed source.")
-- AnimVanish, BungeeMT & MiniVital [(*)](## "Quick, one feature Minecraft projects to improve on coding skills.")
+## My personal favourite projects
+*(hover over the \* to see more information)*
+- GroupSecurity 
+  - *An upcoming closed source Velocity, Bungeecord & Spigot plugin*
+- MikArt Europe Website 
+  - *A closed source NextJS, TS, TailwindCSS project.*
+- EnSave 
+  - *A discord bot, which doesn't have the 2.0 open sourced yet*
+- AnimVanish and other Spigot plugins
+  - *Quick, one feature implementing Minecraft projects to improve on coding skills.*
