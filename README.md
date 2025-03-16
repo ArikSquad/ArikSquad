@@ -1,28 +1,28 @@
 # Hi 👋, I'm ArikSquad
-A full-stack developer
-
-<a href="https://www.ko-fi.com/ariksquad">![kofi](https://img.shields.io/badge/Ko--Fi-%23ff5f5f?style=for-the-badge&logo=kofi&logoColor=black)</a>
+A full-stack developer from Finland.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![Typescript](https://img.shields.io/badge/Typescript-brightgreen?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+
 </p>
 <p align="left">
 
-![React](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=react)
-![Tailwindcss](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=black)
-![Jenkins](https://img.shields.io/badge/Jenkins-yellow?style=for-the-badge&logo=jenkins&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </p>
+<p align="left">
 
-> [!NOTE]\
-> Every single of my Typescript, Javascript, Flutter and most of my Java projects are not published on GitHub.
-> This is because I haven't thought of it before. 
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+</p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ariksquad&show_icons=true&theme=dracula&locale=en" alt="ariksquad" /></p>
 
@@ -34,11 +34,18 @@ A full-stack developer
 
 
 ## My personal favourite projects
-- GroupSecurity 
-  - *An upcoming closed source Velocity, Bungeecord & Spigot plugin*
-- MikArt Europe Website 
-  - *A closed source NextJS, TS, TailwindCSS project.*
-- EnSave 
-  - *A discord bot, which doesn't have the 2.0 open sourced yet*
-- AnimVanish and other Spigot plugins
-  - *Quick, one feature implementing Minecraft projects to improve on coding skills.*
+### GroupSecurity
+  
+A Java Minecraft multi-modular plugin/mod for Velocity, Bungeecord & Spigot.
+### EnSave
+  
+EnSave is an Discord bot which offers a large amount of features. It also has an dashboard website than you can visit [here](https://ensave.mikart.eu/)
+### MikArt Europe Website
+  
+A NextJS, TypeScript, TailwindCSS v4 project. You can check it out [here](https://www.mikart.eu)
+### Other miscanellaous projects
+  
+I have contributed and made different types of smaller projects like games in c++, and plugins for my Minecraft server.
+ 
+> [!NOTE]\
+> Some projects, like Dart, Java and TypeScript are not open-sourced currently. This is because I don't feel they're completely done, even though they're used in a production setting.
