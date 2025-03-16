@@ -1,5 +1,5 @@
 # Hi 👋, I'm ArikSquad
-A full-stack developer from Finland.
+A full-stack developer from Finland 🇫🇮.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -24,7 +24,7 @@ A full-stack developer from Finland.
 
 </p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ariksquad&show_icons=true&theme=dracula&locale=en" alt="ariksquad" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ariksquad&show_icons=true&theme=dracula&locale=en" alt="ariksquad" /></p> <em>(this isn't aware of private repositories)</em>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
