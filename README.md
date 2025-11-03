@@ -1,7 +1,7 @@
 # Hi 👋, I'm ArikSquad
 A full-stack developer from Finland 🇫🇮.
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Most efficient at these languages:</h3>
 <p align="left">
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -9,20 +9,6 @@ A full-stack developer from Finland 🇫🇮.
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </p>
-<p align="left">
-
-![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-</p>
-<p align="left">
-
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-</p>
-
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ariksquad&show_icons=true&theme=dracula&locale=en" alt="ariksquad" /></p> <em>(this isn't aware of private repositories)</em>
 
 <h3 align="left">Connect with me:</h3>
@@ -33,6 +19,8 @@ A full-stack developer from Finland 🇫🇮.
 
 
 ## My personal favourite projects
+### Salattu
+A secure password manager built with a Rust backend, React-Router for web vault, Jetpack Compose for Android application. Includes a Chrome extension.
 ### GroupSecurity
   
 A Java Minecraft multi-modular plugin/mod for Velocity, Bungeecord & Spigot.
@@ -44,7 +32,4 @@ EnSave is an Discord bot which offers a large amount of features. It also has an
 A NextJS, TypeScript, TailwindCSS v4 project. You can check it out [here](https://www.mikart.eu)
 ### Other miscanellaous projects
   
-I have contributed and made different types of smaller projects like games in c++, and plugins for my Minecraft server.
- 
-> [!NOTE]\
-> Some projects, like Dart, Java and TypeScript are not open-sourced currently. This is because I don't feel they're completely done, even though they're used in a production setting.
+I have contributed and made different types of smaller projects like games in C++.
