@@ -1,35 +1,14 @@
-# Hi 👋, I'm ArikSquad
-A full-stack developer from Finland 🇫🇮.
-
-<h3 align="left">Most efficient at these languages:</h3>
-<p align="left">
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArikSquad/ArikSquad/refs/heads/main/title.svg" />
 </p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ariksquad&show_icons=true&theme=dracula&locale=en" alt="ariksquad" /></p> <em>(this isn't aware of private repositories)</em>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+Hi 👋, I'm [ArikSquad](https://www.mikart.eu/ariksquad), a full-stack developer from Finland 🇫🇮. I'm most efficient at Java but I also work with C++, TypeScript, Python, Rust, and C at times. I am also keen on game development.
+
+I enjoy learning new things, collaborating with other projects and sharing knowledge. I have worked on large-scale codebases and even hosted services used by tens of thousands of people. You can find some projects I've worked on pinned below.
+
 <a href="https://discord.com/users/549152470194978817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WKTcnb86b7" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22448548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24610319" height="30" width="40" /></a>
+<a href="https://github.com/ArikSquad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ArikSquad" height="30" width="40" /></a>
 </p>
 
 
-## My personal favourite projects
-### Salattu
-A secure password manager built with a Rust backend, React-Router for web vault, Jetpack Compose for Android application. Includes a Chrome extension.
-### GroupSecurity
-  
-A Java Minecraft multi-modular plugin/mod for Velocity, Bungeecord & Spigot.
-### EnSave
-  
-EnSave is an Discord bot which offers a large amount of features. It also has an dashboard website than you can visit [here](https://ensave.mikart.eu/)
-### MikArt Europe Website
-  
-A NextJS, TypeScript, TailwindCSS v4 project. You can check it out [here](https://www.mikart.eu)
-### Other miscanellaous projects
-  
-I have contributed and made different types of smaller projects like games in C++.
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ArikSquad&show_icons=true&theme=radical&rank_icon=github)
