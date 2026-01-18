@@ -1,0 +1,29 @@
+<svg viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .name {
+      font: 600 48px &apos;JetBrains Mono&apos;, monospace;
+      fill: #e5e7eb;
+    }
+    .cursor {
+    animation: blink 1.2s steps(1) infinite;
+    filter: drop-shadow(0 0 4px rgba(165,180,252,0.2));
+  }
+    .line {
+      stroke: #a5b4fc;
+      stroke-width: 2;
+      stroke-dasharray: 300;
+      stroke-dashoffset: 300;
+      animation: draw 1.8s ease-out forwards;
+    }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+    @keyframes draw {
+      to { stroke-dashoffset: 0; }
+    }
+  </style>
+  <text x="40" y="60" class="name">
+    ArikSquad<tspan class="cursor">|</tspan>
+  </text>
+  <line x1="40" y1="75" x2="300" y2="75" class="line"/>
+</svg>
