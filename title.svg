@@ -1,29 +1,44 @@
 <svg viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff">
+        <animate attributeName="stop-color" values="#ffffff;#c4b5fd;#ffffff" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ffffff">
+        <animate attributeName="stop-color" values="#ffffff;#a5b4fc;#ffffff" dur="5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
   <style>
     .name {
-      font: 600 48px &apos;JetBrains Mono&apos;, monospace;
-      fill: #e5e7eb;
+      font: 600 48px 'JetBrains Mono', monospace;
+      fill: url(#textGradient);
+      text-anchor: middle;
     }
+
     .cursor {
-    animation: blink 1.2s steps(1) infinite;
-    filter: drop-shadow(0 0 4px rgba(165,180,252,0.2));
-  }
+      animation: blink 1.2s steps(1) infinite;
+      filter: drop-shadow(0 0 4px rgba(165,180,252,0.2));
+    }
+
     .line {
       stroke: #a5b4fc;
       stroke-width: 2;
-      stroke-dasharray: 300;
-      stroke-dashoffset: 300;
+      stroke-dasharray: 260;
+      stroke-dashoffset: 260;
       animation: draw 1.8s ease-out forwards;
     }
+
     @keyframes blink {
       50% { opacity: 0; }
     }
+
     @keyframes draw {
       to { stroke-dashoffset: 0; }
     }
   </style>
-  <text x="40" y="60" class="name">
+  <text x="400" y="60" class="name">
     ArikSquad<tspan class="cursor">|</tspan>
   </text>
-  <line x1="40" y1="75" x2="300" y2="75" class="line"/>
+  <line x1="256" y1="75" x2="530" y2="75" class="line"/>
 </svg>
