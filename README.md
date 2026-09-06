@@ -1,10 +1,18 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ArikSquad/ArikSquad/refs/heads/main/title.svg" />
-</p>
+# Hi 👋,
 
-Hi 👋, I'm [ArikSquad](https://www.mikart.eu/ariksquad), a full-stack developer from Finland 🇫🇮. I'm most efficient at Java but I also work with C++, TypeScript, Python, Rust, and C at times. I am also keen on game development.
+I'm [ArikSquad](https://www.mikart.eu/). a full-stack developer from Finland 🇫🇮 with a strong interest in systems, cybersecurity and server development.
+My favourite language is **Java** but I also like to work with **C++**, TypeScript, Python and Rust at times. I'm the strongest in Java and C++. 
+I enjoy working close to the underlying systems, understanding how things communicate and solving problems that cover software, infrastructure and networking.
 
-I enjoy learning new things, collaborating with other projects and sharing knowledge. I have worked on large-scale codebases and even hosted services used by tens of thousands of people. You can find some projects I've worked on pinned below.
+## What I've worked with
+- Software development: backend systems, libraries, tooling, plugins and larger codebases
+- Networking & infrastructure: self-hosted services, Tailscale networks, proxies, DNS, routing and server administration
+- Server operations: operating and troubleshooting Minecraft server infrastructure and services that scale when used by large numbers of users
+- Cybersecurity: vulnerability research and bug-bounty work, including responsibly disclosed vulnerabilities attached with PoCs and rewarded submissions
+- Experimentation: lower-level development and experimentation with technologies such as Vulkan
+
+You can find some projects I've worked on pinned below. While I'm keen on open-source, some of my projects
+are unfortunately closed-source for various different reasons. 
 
 <a href="https://discord.com/users/549152470194978817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WKTcnb86b7" height="30" width="40" /></a>
 <a href="https://github.com/ArikSquad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ArikSquad" height="30" width="40" /></a>
@@ -12,3 +20,6 @@ I enjoy learning new things, collaborating with other projects and sharing knowl
 
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ArikSquad&show_icons=true&theme=radical&rank_icon=github)
+
+
+[//]: # (Can't wait to work with you!)
