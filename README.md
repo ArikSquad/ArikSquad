@@ -5,11 +5,11 @@ My strongest languages are Java and C++ but I also like to work with TypeScript,
 I enjoy working close to the underlying systems, understanding how things communicate and solving problems that cover software, infrastructure and networking.
 
 ## What I've worked with
-- Software development: backend systems, libraries, tooling, plugins and larger codebases
-- Networking & infrastructure: self-hosted services, Tailscale networks, proxies, DNS, routing and server administration
+- Software development: backend systems, libraries and tooling
+- Networking & infrastructure: self-hosted services, networks, proxies, DNS, routing and server administration
 - Server operations: operating and troubleshooting Minecraft server infrastructure and services used by a large numbers of users
 - Cybersecurity: vulnerability research and bug-bounty work, including responsibly disclosed vulnerabilities including PoCs and rewarded submissions
-- Experimentation: lower-level development and experimentation with technologies such as Vulkan
+- Experimentation: always testing out new technologies and learning about interesting things
 
 You can find some projects I've worked on pinned below. While I'm keen on open-source, some of my bigger projects
 are unfortunately closed-source for various reasons.
