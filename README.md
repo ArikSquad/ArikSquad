@@ -1,8 +1,8 @@
 # Hi 👋,
 
 I'm [ArikSquad](https://www.mikart.eu/), a full-stack developer from Finland 🇫🇮 with a strong interest in systems, cybersecurity and server development.
-My strongest languages are Java, Python and C++ but I also like to work with TypeScript and Rust, or whatever language best fits the job. 
-I enjoy working close to the underlying systems, understanding how things communicate and solving problems that cover software, infrastructure and networking.
+My strongest languages are Java, Python and C++ but I also like to work with TypeScript and Rust, or whatever language best fits the task. 
+I enjoy working close to the underlying systems, understanding how things communicate and solving problems that cover any section of software development. 
 
 ## What I've worked with
 - Software development in general: backend systems, libraries and tooling.
