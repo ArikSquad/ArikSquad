@@ -1,15 +1,15 @@
 # Hi 👋,
 
 I'm [ArikSquad](https://www.mikart.eu/), a full-stack developer from Finland 🇫🇮 with a strong interest in systems, cybersecurity and server development.
-My strongest languages are Java and C++ but I also like to work with TypeScript, Python and Rust, or whatever language best fits the job. 
+My strongest languages are Java, Python and C++ but I also like to work with TypeScript and Rust, or whatever language best fits the job. 
 I enjoy working close to the underlying systems, understanding how things communicate and solving problems that cover software, infrastructure and networking.
 
 ## What I've worked with
-- Software development in general: backend systems, libraries and tooling
-- Networking & infrastructure: self-hosted services, networks, proxies, DNS, routing and server administration
-- Operating and troubleshooting Minecraft server infrastructure and services used by a large numbers of users
-- Cybersecurity as in vulnerability research and bug-bounty work, including responsibly disclosed vulnerabilities including PoCs and rewarded submissions
-- Always testing out new technologies and learning about interesting things like languages and tools.
+- Software development in general: backend systems, libraries and tooling.
+- Networking & infrastructure inside self-hosted services, proxies, DNS, routing and server administration.
+- Operating and troubleshooting Minecraft server infrastructure and services used by a large numbers of users.
+- Cybersecurity as in vulnerability research and bug-bounty work, including responsibly disclosed vulnerabilities including PoCs and rewarded submissions.
+- I always look to test out new technologies and learn about interesting things such as new languages and tools.
 
 You can find some projects I've worked on pinned below. While I'm keen on open-source, some of my bigger projects
 are unfortunately closed-source for various reasons.
